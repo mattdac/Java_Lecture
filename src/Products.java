@@ -1,9 +1,13 @@
+import java.util.Scanner;
 
 public class Products {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		//Exercise 1.1
+		
+		
+	
 	}
 
 }
